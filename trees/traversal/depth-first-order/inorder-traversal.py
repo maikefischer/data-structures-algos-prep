@@ -1,7 +1,7 @@
 """
 Using the inorder traversal method, we first visit the left subtree 
 of the original tree. Then we will traverse the root node of the tree
- and lastly the right subtree of the original tree.
+and lastly the right subtree of the original tree.
 
 1. Calling Inorder (left-subtree)
 2. Visit the root node
